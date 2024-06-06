@@ -1,6 +1,6 @@
 - Hi, I’m @jaspersmith03
 - I’m interested in programming
-- I’m currently learning F#
+- I’m currently learning OCaml
 
 <!---
 jaspersmith03/jaspersmith03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
